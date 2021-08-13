@@ -11,7 +11,8 @@ This issue is not fixed yet, and every time you join a Unitystation server you c
 
 This video showcases how this vulnerability can be exploited. For the proof of concept we simply open 100 tabs of the Wikipedia article about malware, but any kind of virus could have been installed. If you would like to know how the proof of concept works, there is more information below the FAQ.
 
-(add video here)
+https://user-images.githubusercontent.com/39844191/129407823-124d78f8-c84e-429d-9745-dc6feda197dd.mp4
+
 
 ## FAQ
 
