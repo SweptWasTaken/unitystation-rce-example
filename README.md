@@ -30,7 +30,7 @@ At the time of writing, for more than two weeks.
 
 ##### What are Unitystation developers doing about this?
 
-After more than a year of this vulnerability existing, and multiple days of a proof of concept existing, a Unitystation contributor was finally convinced that this issue needs to be fixed. They wrote code to fix this issue, and this code was merged a few days later, but this version of the Stationhub has not yet been released. At the time of writing, the fix has been merged for 11 days, but the Unitystation developers have not yet released this build even though their players are at risk.
+After more than a year of this vulnerability existing, multiple days of a proof of concept existing, and hours of discussion spread over multiple days, a Unitystation contributor was finally convinced that this issue needs to be fixed. They wrote code to fix this issue, and this code was merged a few days later, but this version of the Stationhub has not yet been released. At the time of writing, the fix has been merged for 12 days, but the Unitystation developers have not yet released this build even though their players are at risk.
 
 ##### Was there really a server called "Malware Station" on the Unitystation hub?
 
